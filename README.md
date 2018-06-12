@@ -22,3 +22,14 @@ Slots:
  - `cancelCompletion()` discards the current completion (selected text); bound to Esc key;
  - `setToolTipAtCursor(const QString &tip)` show a tooltip placed at cursor position (useful for implementing calltips).
 
+## Contribute
+
+If you want to contribute with development, fork and make a pull requests. PRs are very welcome!
+
+If you want to donate, use one of the following methods:
+
+ - BTC: `34RqXSKCgPrVJ8Q266ahiWx3TfV2xAdNKv`
+ - BCH: `1PwoEfCk7cjjYiC3B9y5JQkCAtZsaZwfxn`
+ - ETH: `0x3a1Fe92C19609835De3975F64fca4c4aA9B0BDf3`
+ - LTC: `LYTUr4xiMjwii88J8sZ44wWu8GCaCQVx3W `
+ - XMR: `4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWCSnRSymAvuG1vvpqi`
